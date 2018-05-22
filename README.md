@@ -1,5 +1,5 @@
 # my-project-2
-This is my project 2 portfolio
+This is my project 2 portfolio.
 
 # what is my project
 i have done my project with team mumbai indians Ipl team of 2018.
